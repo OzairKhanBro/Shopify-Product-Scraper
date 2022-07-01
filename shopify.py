@@ -159,8 +159,8 @@ def extract_products(url, path, collections=None):
             print('fetching product ' + col_handle)
             for product in extract_products_collection(url, col_handle):
                 variant_id = product['variant_id']
-                if variant_id in seen_variants:
-                    continue
+                # if variant_id in seen_variants:
+                #     continue
                 seen_variants.add(variant_id)
                 option_name = ''
                 tags = ''
@@ -230,7 +230,7 @@ def extract_products(url, path, collections=None):
                       '',  # 'Google Shopping / Custom Label 2'	,
                       '',  # 'Google Shopping / Custom Label 3'	,
                        '', # 'Google Shopping / Custom Label 4'	,
-                      '',  # 'Variant Image'	,
+                      product['image_src'],  # 'Variant Image'	,
                       '',  #    'Variant Weight Unit'	,
                      '',   #  'Variant Tax Code'	,
                       '',  # 'Cost per item'	,
