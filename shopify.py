@@ -156,7 +156,8 @@ def extract_products(url, path, collections=None):
                 continue
             col_handle = col['handle']
             co_title = col['title']
-            print('fetching product ' + col_handle)
+            print('fetching Collection: ' + col_handle)
+
             for product in extract_products_collection(url, col_handle):
                 variant_id = product['variant_id']
                 # if variant_id in seen_variants:
@@ -164,6 +165,7 @@ def extract_products(url, path, collections=None):
                 seen_variants.add(variant_id)
                 option_name = ''
                 tags = ''
+                print('product: ' + product['product_handle'])
                 try:
                     product['options']= json.loads(product['options'].replace("\'", "\""))
                     option_name = product['options'][0]['name']
@@ -184,11 +186,11 @@ def extract_products(url, path, collections=None):
  
                 # print(product['featured_image'].replace("\'", "\""))
                 # product['featured_image']= json.loads(product['featured_image'].replace("\'", "\""))
-                del product['body_html']
+                # del product['body_html']
                 writer.writerow([
                     product['product_handle'],
                     product['title'],
-                    '',#Body html
+                    product['body_html'],#Body html
                     product['vendor'] or '', #Vendor
                     '',#'Standardized Product Type',
                     product['product_type'],#	'Custom Product Type',

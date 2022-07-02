@@ -1,0 +1,195 @@
+{
+  "products": [
+    {
+      "id": 6808557879353,
+      "title": "boAt Airdopes 175",
+      "handle": "boat-airdopes-175",
+      "published_at": "2022-06-29T10:36:56+05:30",
+      "created_at": "2022-06-29T10:37:00+05:30",
+      "updated_at": "2022-06-30T08:25:36+05:30",
+      "vendor": "boatnirvana md",
+      "product_type": "TWS",
+      "tags": [
+        "Coming-Soon",
+        "Country Code: CN",
+        "importer details Imagine Marketing Pvt Ltd. E Wing Unit 505 Wing 2 Corporate Avenue Atul Projects Andheri East Mumbai Maharashtra-411093",
+        "meta-label-new-arrival"
+      ],
+      "variants": [
+        {
+          "id": 40409091440697,
+          "title": "Black",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30014087168057,
+            "product_id": 6808557879353,
+            "position": 1,
+            "created_at": "2022-06-29T10:37:00+05:30",
+            "updated_at": "2022-06-29T10:37:00+05:30",
+            "alt": null,
+            "width": 2560,
+            "height": 2560,
+            "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1804.png?v=1656479220",
+            "variant_ids": [40409091440697]
+          },
+          "available": true,
+          "price": "285.00",
+          "grams": 380,
+          "compare_at_price": "2990.00",
+          "position": 1,
+          "product_id": 6808557879353,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "updated_at": "2022-06-30T08:22:35+05:30"
+        },
+        {
+          "id": 40409091473465,
+          "title": "White",
+          "option1": "White",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30014087200825,
+            "product_id": 6808557879353,
+            "position": 2,
+            "created_at": "2022-06-29T10:37:00+05:30",
+            "updated_at": "2022-06-29T10:37:00+05:30",
+            "alt": null,
+            "width": 2560,
+            "height": 2560,
+            "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1807.png?v=1656479220",
+            "variant_ids": [40409091473465]
+          },
+          "available": true,
+          "price": "285.00",
+          "grams": 380,
+          "compare_at_price": "2990.00",
+          "position": 2,
+          "product_id": 6808557879353,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "updated_at": "2022-06-29T10:37:00+05:30"
+        },
+        {
+          "id": 40409091506233,
+          "title": "Blue",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30014087233593,
+            "product_id": 6808557879353,
+            "position": 3,
+            "created_at": "2022-06-29T10:37:00+05:30",
+            "updated_at": "2022-06-29T10:37:00+05:30",
+            "alt": null,
+            "width": 2560,
+            "height": 2560,
+            "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1806.png?v=1656479220",
+            "variant_ids": [40409091506233]
+          },
+          "available": true,
+          "price": "285.00",
+          "grams": 380,
+          "compare_at_price": "2990.00",
+          "position": 3,
+          "product_id": 6808557879353,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "updated_at": "2022-06-30T06:10:01+05:30"
+        },
+        {
+          "id": 40409091539001,
+          "title": "Red",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 30014087266361,
+            "product_id": 6808557879353,
+            "position": 4,
+            "created_at": "2022-06-29T10:37:00+05:30",
+            "updated_at": "2022-06-29T10:37:00+05:30",
+            "alt": null,
+            "width": 2560,
+            "height": 2560,
+            "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1805.png?v=1656479220",
+            "variant_ids": [40409091539001]
+          },
+          "available": true,
+          "price": "285.00",
+          "grams": 380,
+          "compare_at_price": "2990.00",
+          "position": 4,
+          "product_id": 6808557879353,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "updated_at": "2022-06-29T10:37:00+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 30014087168057,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "position": 1,
+          "updated_at": "2022-06-29T10:37:00+05:30",
+          "product_id": 6808557879353,
+          "variant_ids": [40409091440697],
+          "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1804.png?v=1656479220",
+          "width": 2560,
+          "height": 2560
+        },
+        {
+          "id": 30014087200825,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "position": 2,
+          "updated_at": "2022-06-29T10:37:00+05:30",
+          "product_id": 6808557879353,
+          "variant_ids": [40409091473465],
+          "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1807.png?v=1656479220",
+          "width": 2560,
+          "height": 2560
+        },
+        {
+          "id": 30014087233593,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "position": 3,
+          "updated_at": "2022-06-29T10:37:00+05:30",
+          "product_id": 6808557879353,
+          "variant_ids": [40409091506233],
+          "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1806.png?v=1656479220",
+          "width": 2560,
+          "height": 2560
+        },
+        {
+          "id": 30014087266361,
+          "created_at": "2022-06-29T10:37:00+05:30",
+          "position": 4,
+          "updated_at": "2022-06-29T10:37:00+05:30",
+          "product_id": 6808557879353,
+          "variant_ids": [40409091539001],
+          "src": "https://cdn.shopify.com/s/files/1/0608/8310/7897/products/A175Packaging.1805.png?v=1656479220",
+          "width": 2560,
+          "height": 2560
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": ["Black", "White", "Blue", "Red"]
+        }
+      ]
+    }
+  ]
+}
